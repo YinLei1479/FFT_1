@@ -1,0 +1,12 @@
+*.seq
+*.ef
+*.dll
+*.exp
+*.lib
+*.pdb
+*.m
+*.desinfo
+*.ot
+*.ov
+tdma_module_7.project/tdma_module_7-#scenario1-DES-1.olf.dir/log_info
+tdma_module_7.project/tdma_module_7-scenario1-DES-1.olf.dir/log_info
